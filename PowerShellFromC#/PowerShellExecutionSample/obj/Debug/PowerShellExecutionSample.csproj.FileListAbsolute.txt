@@ -1,0 +1,12 @@
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\bin\Debug\PowerShellExecutionSample.exe
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\bin\Debug\PowerShellExecutionSample.pdb
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.csprojResolveAssemblyReference.cache
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.exe
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.pdb
+C:\Users\Admin\Downloads\Resume\PowerShellFromC#\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Resume\PowerShellFromC#\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.exe
+C:\Users\Admin\Downloads\Resume\PowerShellFromC#\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.pdb
+C:\Users\Admin\Downloads\Resume\PowerShellFromC#\PowerShellExecutionSample\bin\Debug\PowerShellExecutionSample.exe
+C:\Users\Admin\Downloads\Resume\PowerShellFromC#\PowerShellExecutionSample\bin\Debug\PowerShellExecutionSample.pdb
+C:\Users\Admin\Downloads\Resume\PowerShellFromC#\PowerShellExecutionSample\bin\Debug\System.Management.Automation.dll
+C:\Users\Admin\Downloads\Resume\PowerShellFromC#\PowerShellExecutionSample\bin\Debug\Microsoft.Management.Infrastructure.dll
